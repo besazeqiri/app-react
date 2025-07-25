@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 
 const Footer = () => (
   <motion.footer
-    className="bg-gray-950 text-gray-400 py-10 px-4 border-t border-gray-800 max-w-6xl mx-auto scroll-mt-16"
+    className="bg-gray-950 text-gray-400 py-10 px-4 border-t border-gray-800 max-w-6xl mx-auto scroll-mt-20"
     initial={{ y: 50, opacity: 0 }}
     whileInView={{ y: 0, opacity: 1 }}
     viewport={{ once: false, amount: 0.3 }}

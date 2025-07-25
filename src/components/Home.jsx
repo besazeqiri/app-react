@@ -10,7 +10,7 @@ const Home = () => {
     <section
       id="home"
       ref={ref}
-      className="min-h-screen flex flex-col justify-center items-center text-center bg-gray text-white scroll-mt-16"
+      className="min-h-screen flex flex-col justify-center items-center text-center bg-gray text-white scroll-mt-24"
     >
       <img
         src={profile}

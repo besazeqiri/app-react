@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const Contact = () => (
   <motion.section
     id="contact"
-    className="bg-gray-900 p-6 rounded-lg shadow-lg mb-10 max-w-5xl mx-auto scroll-mt-16"
+    className="bg-gray-900 p-6 rounded-lg shadow-lg mb-10 max-w-5xl mx-auto scroll-mt-20"
     style={{ scrollMarginTop: "100px" }}
     initial={{ y: 50, opacity: 0 }}
     whileInView={{ y: 0, opacity: 1 }}

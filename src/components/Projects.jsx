@@ -40,7 +40,7 @@ const Projects = () => {
   return (
     <section
       id="projects"
-      className="bg-gray-900 text-white py-12 px-6 rounded-lg shadow-lg  max-w-7xl mx-auto mb-10 scroll-mt-16"
+      className="bg-gray-900 text-white py-12 px-6 rounded-lg shadow-lg  max-w-7xl mx-auto mb-10 scroll-mt-20"
       style={{ scrollMarginTop: "100px" }} // për scroll të saktë
     >
       <motion.h2
