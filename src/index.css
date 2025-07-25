@@ -6,10 +6,11 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  overflow-x: hidden;
-}
-
 html, body {
   background-color: #1F2937;
+}
+
+body {
+  padding-top: 80px;
+  overflow-x: hidden;
 }

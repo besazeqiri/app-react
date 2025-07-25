@@ -10,16 +10,12 @@ function App() {
   return (
     <div className="bg-gray-900 min-h-screen">
       <Header />
-      <main className="pt-16">
         <Home />
         <About />
         <Projects />
         <Skills />
         <Contact />
-      </main>
       <Footer />
-    <div className="h-10 md:h-0" />
-
     </div>
   );
 }

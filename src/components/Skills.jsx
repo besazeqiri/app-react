@@ -25,7 +25,7 @@ const skills = [
 const Skills = () => (
   <section
     id="skills"
-    className="bg-gray-900 p-6 rounded-lg shadow-lg  mb-10 max-w-5xl mx-auto scroll-mt-20"
+    className="bg-gray-900 p-6 rounded-lg shadow-lg  mb-10 max-w-5xl mx-auto scroll-mt-[88px]"
     style={{ scrollMarginTop: "100px" }}
   >
     <motion.h2

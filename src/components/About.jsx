@@ -9,7 +9,7 @@ const About = () => {
     <section
       id="about"
       ref={ref}
-      className="bg-gray-900 px-6 py-12 rounded-lg shadow-lg max-w-5xl mx-auto text-white scroll-mt-20"
+      className="bg-gray-900 px-6 py-12 rounded-lg shadow-lg max-w-5xl mx-auto text-white scroll-mt-[88px]"
     >
       <motion.h2
         className="text-4xl mb-8 font-semibold text-left"
